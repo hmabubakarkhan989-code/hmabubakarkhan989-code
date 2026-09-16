@@ -1,156 +1,223 @@
-# Hi, I'm Hafiz Muhamad Abubakar 
+#  Hi, I'm Hafiz Muhamad Abubakar
 
-### Ai undergaduate | Backend Developer | AI/ML Enthusiast | Aspiring FDE
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=00A8FF&center=true&vCenter=true&width=750&lines=BS+Artificial+Intelligence+Student;Backend+Developer;AI%2FML+Enthusiast;Building+Real-World+Software;Aspiring+Forward+Deployed+Engineer" />
+</p>
 
-I'm a 2nd-year **BS Artificial Intelligence** student at **Air University Islamabad** with a strong interest in software development, backend engineering, and artificial intelligence.
-
-Currently, I'm building my skills in **Python backend development, APIs, web development, AI/ML, and software engineering** while working toward my long-term goal of becoming a **Forward Deployed Engineer (FDE)**.
+<p align="center">
+  <a href="https://github.com/hmabubakarkhan989-code">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/abubakar-khan-ai">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 
 ---
 
-##  About Me
+## About Me
 
--  2nd-year **BS Artificial Intelligence** student at Air University Islamabad
--  Focused on **Python & Backend Development**
--  Interested in **Artificial Intelligence , Machine Learning & image processing**
--  Working toward a career as a **Forward Deployed Engineer**
--  Currently working as a **Backend Developer Intern at Arch Technologies**
--  Previously completed a **Web Development Internship at AI Explain You Science**
--  Currently improving my problem-solving, DSA and software engineering skills
--  I enjoy building practical projects that solve real-world problems
+ **BS Artificial Intelligence** student at **Air University Islamabad**
+
+ Focused on **Python Backend Development, APIs, AI/ML & Software Engineering**
+
+I enjoy turning ideas into practical, working applications.
+ Currently improving my skills in:
+
+`Python` • `Flask` • `REST APIs` • `Git/GitHub` • `SQL` • `AI/ML` • `DSA`
+
+ **Career Goal:** Become a **Forward Deployed Engineer (FDE)** and build technology that solves real-world problems.
 
 ---
 
 ##  Tech Stack
 
-### Programming Languages
+###  Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c" />
 </p>
 
-### Backend & Web Development
+###  Backend & Web
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,js" />
 </p>
 
-### AI / Data
+###  AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### Tools
+###  Tools & Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
 </p>
 
 ---
 
-## Experience
+#  Featured Projects
 
-### Backend Developer Intern — Arch Technologies
-**Remote**
+### Bhutta Medical Complex
 
-Currently working on Python development and backend-related tasks while gaining practical software development experience.
+> **Python • Flask • Web Development**
 
-### Web Development Intern — AI Explain You Science
+A healthcare web application developed as a university project.
 
-Worked on web development and gained practical experience in building and working with web-based applications.
+**Features**
 
----
-
-##  Featured Projects
-
-###  Bhutta Medical Complex
-
-A Flask-based hospital management web application developed as part of my university project.
-
-**Features:**
-- User Signup & Login
-- Doctor listings
-- Appointment booking
-- Appointment management
-- Hospital information
-- Query assistant
-- Flask backend/API
-- Local file-based data handling
-
-**Tech:** Python • Flask • HTML • CSS
+*  User registration & login
+*  Doctor management
+*  Appointment booking
+*  Appointment viewing
+*  Hospital query assistant
+*  Flask backend/API
+*  Local file-based data storage
 
 ---
 
 ###  AIR University Tetris
 
-A C++ Tetris game developed as a Programming Fundamentals project.
+> **C++ • SFML • Game Development**
 
-**Features:**
-- 20 × 10 game grid
-- Score system
-- Levels
-- Shadow pieces
-- High scores
-- Game menu
-- Help section
+A classic Tetris implementation developed using C++ and SFML.
 
-**Tech:** C++ • SFML
+**Features**
 
----
-
-###  Smart Home Automation
-
-An IoT-based smart home automation project developed for Computer Networks.
-
-**Features:**
-- Temperature monitoring
-- Motion detection
-- Gas/smoke detection
-- Automatic fan/AC control
-- Light control
-- Buzzer alerts
-- Security/access control
-
-**Tech:** Arduino • Sensors • C/C++ • IoT
+*  Complete Tetris gameplay
+*  Score & high-score system
+*  Level progression
+*  Piece shadow
+*  Interactive menu
+*  Help screen
+*  SFML graphics
 
 ---
 
-##  Education
+### Smart Home Automation
+
+> **IoT • Arduino • Computer Networks**
+
+A smart automation system designed for monitoring and controlling a home environment.
+
+**Features**
+
+*  Temperature monitoring
+*  Motion detection
+*  Fire & smoke detection
+*  Smart lighting
+*  Automatic fan control
+*  Automatic AC control
+*  Keypad access system
+
+---
+
+#  Experience
+
+###  Backend Developer Intern
+
+**Arch Technologies**
+
+`Python` `Backend Development` `APIs`
+
+Currently gaining practical experience in backend development and Python-based software development.
+
+###  Web Development Intern
+
+**AI Explain You Science**
+
+`Web Development` `Software Development`
+
+Worked on practical web development tasks and software projects.
+
+---
+
+#  Education
 
 ### Air University Islamabad
 
 **BS Artificial Intelligence**
 
-Currently in 2nd year
+ Islamabad, Pakistan
 
-Relevant coursework:
+**Current:** 2nd Year • 3rd Semester
 
-- Programming Fundamentals
-- Object-Oriented Programming
-- Programming for AI
-- Data Structures & Algorithms
-- Computer Networks
-- Digital Logic Design
-- Discrete Structures
+### Relevant Coursework
+
+`C++` `OOP` `Programming for AI` `Computer Networks` `DLD` `Discrete Structures`
 
 ---
 
-##  Currently Learning
+#  My Development Journey
 
 ```text
-Python
-   ↓
-Backend Development
-   ↓
-APIs & Web Services
-   ↓
-Databases
-   ↓
-Software Engineering
-   ↓
-AI / Machine Learning
-   ↓
-Deployment & Cloud
-   ↓
-Forward Deployed Engineering
+C++ & Programming Fundamentals
+             ↓
+       Object-Oriented Programming
+             ↓
+          Python Development
+             ↓
+       Backend Development
+             ↓
+          REST APIs
+             ↓
+        AI / Machine Learning
+             ↓
+    Real-World Software Systems
+             ↓
+    Forward Deployed Engineer
+```
+
+---
+
+# GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hmabubakarkhan989-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmabubakarkhan989-code&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hmabubakarkhan989-code&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmabubakarkhan989-code&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+#  Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/abubakar-khan-ai">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://github.com/hmabubakarkhan989-code">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+###  Build • Learn • Solve • Deploy
+
+ **Thanks for visiting my profile!**
+
+</p>
+
